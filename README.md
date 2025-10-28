@@ -23,7 +23,7 @@ Analyze Android APK/XAPK files to detect SDKs, libraries, and competitor product
 6. **Clean up** temporary files when done
 
 ## Demo
-Detect-Nutrient-SDK-in-Andriod-App-On-Windows.mp4
+[Detect-Nutrient-SDK-in-Andriod-App-On-Windows.mp4](https://github.com/Narashiman-K/Detect-Nutrient-SDK-in-Android-App-On-Windows/blob/main/Detect-Nutrient-SDK-in-Andriod-App-On-Windows.mp4)
 
 ## 📁 Project Structure
 
